@@ -14,10 +14,10 @@
       "desc": "La propriété `gradient` peut être utilisée pour appliquer une simple superposition de gradient à l'image. Les dégradés plus complexes doivent être écrits comme une classe sur le content slot à la place."
     },
     "grid": {
-      "desc": "Vous pouvez utiliser `v-img` pour faire, par exemple, une galerie d'images."
+      "desc": "Vous pouvez utiliser `v-img` pour afficher, par exemple, une galerie d'images."
     },
     "placeholder": {
-      "desc": "`v-img` a un emplacement spécial `placeholder` pour afficher le un texte par défaut pendant le chargement de l'image. Note: l'exemple ci-dessous a un src mauvais qui ne vous chargera pas pour voir le texte par défaut."
+      "desc": "`v-img` a un emplacement spécial `placeholder` pour afficher un texte par défaut pendant le chargement de l'image. Note: l'exemple ci-dessous a un mauvais src qui ne se chargera pas afin de voir le texte par défaut."
     }
   },
   "props": {
